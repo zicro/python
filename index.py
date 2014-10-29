@@ -1,1 +1,2 @@
-print 'omae is not her for the moments';
+print "hoooooola"
+
