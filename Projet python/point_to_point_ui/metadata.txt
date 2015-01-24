@@ -1,0 +1,15 @@
+[general]
+name=PointConnector
+qgisMinimumVersion=2.0
+description=Creating lines between points following a from-to list
+category=Vector
+version=0.0.1
+author=LPGA 2015
+email=LPGA20132015@gmail.com
+tags=points to lignes
+homepage=
+tracker=https://github.com/lpga/point_to_point
+repository=https://github.com/lpga/point_to_point
+icon=./icon.png
+experimental=False
+deprecated=False

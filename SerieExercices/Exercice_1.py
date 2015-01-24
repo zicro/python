@@ -1,8 +1,7 @@
 class CalculGeo():
 
-    def __init__(self):
-         self.info = (("S1", 145, 155), ("S2", 150, 155), ("S3", 160, 155), ("S4", 170, 155),
-        ("S5", 180, 155), ("S6", 199, 155), ("S7", 200, 155), ("S8", 210, 155))
+    def __init__(self,donnes):
+         self.info = donnes
     def getStationCordinate(self, name):
         name = name.upper()
         #if name in info:
